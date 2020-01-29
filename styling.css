@@ -10,7 +10,7 @@
 .img-face {
     width: 200px;
     height: 300px;
-    background-image: url(/home/recruit/Documents/website/face.jpg);
+    background-image: url(/home/recruit/Documents/webstuff/face.jpg);
     background-size: 200%;
     background-repeat: no-repeat;
     background-position: center ;
@@ -62,8 +62,8 @@ ul{
         padding-bottom:100px;
     }
     #footer{
-        background-color: #000;
-        opacity: .7;
+        background-color: rgb(150, 125, 125);
+        opacity: .4;
         position: relative;
         height:50px;
         margin-top:-50px;
